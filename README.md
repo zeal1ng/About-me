@@ -65,7 +65,7 @@ Product management project
 
 # Ярош Егор
 
-Начинающий C#, Java разработчик
+Джун C#, Java разработчик
 
 ## Обо мне
 
